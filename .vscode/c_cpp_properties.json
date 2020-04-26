@@ -1,0 +1,29 @@
+{
+    "configurations": [
+
+        {
+            "name": "linux",
+            "includePath": [
+                "${workspaceRoot}",
+                "/usr/include",
+                "/usr/include/GL/",
+                "/usr/local/include"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/usr/include",
+                    "/usr/local/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "compilerPath": "/usr/local/cuda-9.0/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+       
+    ],
+    "version": 4
+}
