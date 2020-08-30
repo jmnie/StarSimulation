@@ -1,2 +1,2 @@
 # StarSimulation
-Star Simulation using openGL and C++
+Star Simulation using webGL.
